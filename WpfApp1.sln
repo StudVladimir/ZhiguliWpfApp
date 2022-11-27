@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{F5CFCBCD-2C32-4B92-B424-10874219F977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captcha", "..\..\Users\vladi\Desktop\Captcha_WPF_UserControl-master\Captcha\Captcha.csproj", "{BA2319D8-7C04-4981-B5D4-DD742C7D0034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CFCBCD-2C32-4B92-B424-10874219F977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CFCBCD-2C32-4B92-B424-10874219F977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CFCBCD-2C32-4B92-B424-10874219F977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CFCBCD-2C32-4B92-B424-10874219F977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2319D8-7C04-4981-B5D4-DD742C7D0034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2319D8-7C04-4981-B5D4-DD742C7D0034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2319D8-7C04-4981-B5D4-DD742C7D0034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2319D8-7C04-4981-B5D4-DD742C7D0034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16C0D50D-ECF4-4191-A87D-A2697B9EEC88}
+	EndGlobalSection
+EndGlobal
